@@ -1,0 +1,33 @@
+Typhoid Outbreak Prediction Model
+=================================================================
+Locations         : 20 States
+Total Observations: 2,347
+Train / Test      : 1,877 / 470
+Features          : 56
+
+--- OUTBREAK CLASSIFICATION ---
+Accuracy : 90.43%
+F1 Score : 0.8069
+Threshold: 0.580
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9298    0.9430    0.9364       351
+           1     0.8246    0.7899    0.8069       119
+
+    accuracy                         0.9043       470
+   macro avg     0.8772    0.8665    0.8716       470
+weighted avg     0.9031    0.9043    0.9036       470
+
+--- GROWTH RATE REGRESSION ---
+RMSE : 0.6635
+R2   : 0.7537
+
+--- DOUBLING TIME REGRESSION ---
+RMSE : 16.1517
+R2   : 0.4675
+
+--- TARGETS MET? ---
+Overall Accuracy (>=0.90) : PASS (90.43%)
+Outbreak Score F1 (>=0.80) : PASS (0.8069)

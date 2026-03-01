@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+project/frontend/node_modules/
+project/frontend/dist/
+project/model_scripts/__pycache__/
+*.json
+project/models/*.pkl

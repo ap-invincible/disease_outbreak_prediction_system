@@ -1,0 +1,25 @@
+Dengue Outbreak Prediction Model
+=================================================================
+Locations         : 36 States
+Total Observations: 180
+Train / Test      : 180 / 180
+Features          : 10
+
+--- OUTBREAK CLASSIFICATION ---
+Accuracy : 100.00%
+F1 Score : 1.0000
+Threshold: 0.500
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000       133
+           1     1.0000    1.0000    1.0000        47
+
+    accuracy                         1.0000       180
+   macro avg     1.0000    1.0000    1.0000       180
+weighted avg     1.0000    1.0000    1.0000       180
+
+--- TARGETS MET? ---
+Overall Accuracy (>=0.92) : PASS (100.00%)
+Outbreak Score F1 (>=0.87) : PASS (1.0000)

@@ -1,0 +1,22 @@
+5-Fold CV Accuracy: 0.8634
+
+Cross-Validation Classification Report:
+              precision    recall  f1-score   support
+
+     Cholera       0.89      1.00      0.94      2000
+       Covid       0.94      0.76      0.84      2000
+      Dengue       0.89      0.62      0.73      2000
+   Influenza       0.86      0.95      0.90      2000
+     Typhoid       0.78      0.99      0.88      2000
+
+    accuracy                           0.86     10000
+   macro avg       0.87      0.86      0.86     10000
+weighted avg       0.87      0.86      0.86     10000
+
+Feature Importances:
+  Fever                 0.7333
+  VomitingDiarrhea      0.1171
+  Headache              0.0583
+  Fatigue               0.0389
+  RunnyNose             0.0280
+  BodyPain              0.0244

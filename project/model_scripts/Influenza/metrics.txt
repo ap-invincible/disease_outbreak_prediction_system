@@ -1,0 +1,55 @@
+Influenza India -- Outbreak, Growth Rate & Doubling Time Predictor
+=================================================================
+Dataset          : influenza_india_trend_generalised.csv
+Observations     : 639
+Features         : 146
+Train rows       : 511
+Test rows        : 128
+Ensemble         : 9 LightGBM classifiers + 2 regressors
+Optimal threshold: 0.6120
+
+--- OUTBREAK CLASSIFICATION ---
+Overall Accuracy : 92.19%
+Outbreak F1      : 0.9057
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ No Outbreak     0.9333    0.9333    0.9333        75
+    Outbreak     0.9057    0.9057    0.9057        53
+
+    accuracy                         0.9219       128
+   macro avg     0.9195    0.9195    0.9195       128
+weighted avg     0.9219    0.9219    0.9219       128
+
+--- GROWTH RATE REGRESSION ---
+RMSE  : 0.8483
+MAE   : 0.6994
+R2    : -0.2074
+
+--- DOUBLING TIME REGRESSION ---
+RMSE  : 18.4783
+MAE   : 12.8240
+R2    : 0.4194
+
+Top 20 Features (Outbreak model):
+  R24                                824
+  ewm_acc                            787
+  WoW3                               541
+  cos_week2                          540
+  pct3                               540
+  RelPos8                            476
+  lag12                              431
+  growth_8w                          405
+  growth_2w                          379
+  dAcc2                              376
+  SeasonalRatio                      319
+  sin_week                           296
+  pct1                               293
+  Spike6                             283
+  Spike4                             271
+  WoW1                               251
+  CumC                               245
+  log_diff1                          240
+  cos_week                           216
+  WoW2                               208

@@ -1,0 +1,501 @@
+Patient ID,Age,Gender,Symptoms Severity,Hemoglobin (g/dL),Platelet Count,Blood Culture Bacteria,Urine Culture Bacteria,Calcium (mg/dL),Potassium (mmol/L),Current Medication,Treatment Duration,Treatment Outcome
+1,38,Female,Low,13.9,259366,Escherichia coli,Klebsiella pneumoniae,8.7,4.9,Amoxicillin,15 days,Unsuccessful
+2,48,Male,Moderate,12.3,208128,Salmonella typhi,-,8.3,4.3,Ceftriaxone,5 days,Successful
+3,33,Male,High,10.7,251028,Escherichia coli,-,10,3.8,Azithromycin,15 days,Unsuccessful
+4,56,Male,High,14.9,157787,Salmonella typhi,Klebsiella pneumoniae,9.4,3.7,Ceftriaxone,13 days,Successful
+5,67,Male,Low,13.1,217075,Salmonella typhi,Escherichia coli,9.8,5,Amoxicillin,13 days,Successful
+6,19,Female,Low,12.8,264479,Salmonella typhi,Klebsiella pneumoniae,8.7,4.9,Amoxicillin,13 days,Successful
+7,55,Male,Low,14.9,178364,Escherichia coli,-,9.1,4.7,Ceftriaxone,10 days,Successful
+8,70,Male,Low,14.8,200389,Escherichia coli,Escherichia coli,8.7,4.2,Amoxicillin,6 days,Unsuccessful
+9,28,Female,Moderate,14.7,250223,Staphylococcus,-,9.6,4.1,Ceftriaxone,5 days,Successful
+10,24,Male,Moderate,13.2,162206,Escherichia coli,Klebsiella pneumoniae,9.3,4.2,Ceftriaxone,6 days,Successful
+11,24,Male,Low,13.7,272673,Salmonella typhi,-,8.2,4.2,Azithromycin,11 days,Successful
+12,64,Male,Moderate,13.8,168887,Staphylococcus,Escherichia coli,8.7,4.9,Azithromycin,8 days,Successful
+13,37,Female,Moderate,11.1,178774,Escherichia coli,-,10,4,Azithromycin,15 days,Successful
+14,19,Female,Low,13.9,229204,Staphylococcus,-,9.6,5,Ceftriaxone,12 days,Unsuccessful
+15,23,Female,High,12.8,175829,Escherichia coli,Escherichia coli,8.5,5,Ceftriaxone,13 days,Successful
+16,23,Female,High,13.7,268949,Staphylococcus,Escherichia coli,9.3,4.8,Ceftriaxone,15 days,Unsuccessful
+17,50,Female,Moderate,14.4,282514,Salmonella typhi,Escherichia coli,9.7,3.6,Amoxicillin,9 days,Successful
+18,25,Male,High,14.9,280195,Staphylococcus,Escherichia coli,8.6,4.9,Azithromycin,9 days,Successful
+19,48,Male,High,12.1,233494,Salmonella typhi,-,8.4,4.9,Ceftriaxone,10 days,Unsuccessful
+20,60,Female,Low,11.8,145210,Escherichia coli,Klebsiella pneumoniae,8,4.2,Azithromycin,5 days,Unsuccessful
+21,32,Female,Moderate,10.3,269533,Staphylococcus,-,10,3.7,Amoxicillin,8 days,Unsuccessful
+22,20,Male,Low,14.2,232404,Staphylococcus,Escherichia coli,9.3,3.8,Ceftriaxone,7 days,Successful
+23,48,Male,High,13.2,130876,Salmonella typhi,-,8.3,4.4,Ceftriaxone,15 days,Successful
+24,53,Male,Low,12.3,196866,Staphylococcus,-,8.2,3.7,Ceftriaxone,14 days,Unsuccessful
+25,29,Female,Low,11.5,226715,Escherichia coli,Escherichia coli,8.4,4.2,Amoxicillin,10 days,Unsuccessful
+26,21,Male,Moderate,10.9,147819,Salmonella typhi,Escherichia coli,8.8,4.5,Azithromycin,13 days,Successful
+27,31,Male,Low,10.1,177467,Staphylococcus,Escherichia coli,9.2,4.6,Ceftriaxone,12 days,Unsuccessful
+28,64,Female,Low,12.8,186709,Escherichia coli,Klebsiella pneumoniae,8.8,4.7,Amoxicillin,15 days,Successful
+29,63,Female,High,11.3,138504,Escherichia coli,-,8,3.7,Azithromycin,15 days,Successful
+30,63,Female,Moderate,13.4,150384,Staphylococcus,Klebsiella pneumoniae,9.8,4,Ceftriaxone,5 days,Unsuccessful
+31,34,Female,High,13.8,139590,Escherichia coli,Escherichia coli,8.5,4.4,Amoxicillin,6 days,Unsuccessful
+32,46,Male,Low,11.3,154803,Escherichia coli,-,8.2,4.6,Ceftriaxone,8 days,Successful
+33,41,Female,High,14.6,231163,Salmonella typhi,Klebsiella pneumoniae,8.4,4,Ceftriaxone,11 days,Successful
+34,53,Male,High,13.8,254835,Escherichia coli,Escherichia coli,8.4,4.9,Ceftriaxone,8 days,Successful
+35,52,Male,Moderate,14,137039,Escherichia coli,Escherichia coli,8.6,3.9,Azithromycin,13 days,Unsuccessful
+36,48,Female,Moderate,12.1,213106,Escherichia coli,-,8.7,4.4,Ceftriaxone,14 days,Unsuccessful
+37,34,Female,Moderate,10.4,227434,Staphylococcus,Klebsiella pneumoniae,8.9,4.2,Azithromycin,6 days,Successful
+38,55,Male,High,15,191311,Salmonella typhi,Escherichia coli,9,4.7,Ceftriaxone,10 days,Successful
+39,55,Male,Low,12.1,190759,Escherichia coli,Escherichia coli,8.8,3.9,Ceftriaxone,10 days,Unsuccessful
+40,58,Male,Moderate,11.4,125831,Staphylococcus,Klebsiella pneumoniae,8.5,4.4,Azithromycin,12 days,Successful
+41,68,Male,Low,13.4,240767,Escherichia coli,Klebsiella pneumoniae,9,4.4,Ceftriaxone,6 days,Successful
+42,58,Male,Moderate,12,179443,Escherichia coli,Escherichia coli,9.5,4.1,Ceftriaxone,9 days,Successful
+43,51,Female,Moderate,11.7,273730,Escherichia coli,Klebsiella pneumoniae,9.3,3.8,Azithromycin,6 days,Successful
+44,46,Female,Moderate,11.8,178595,Staphylococcus,Escherichia coli,8.3,3.6,Azithromycin,8 days,Successful
+45,44,Female,Moderate,14.6,211337,Escherichia coli,Escherichia coli,8.4,3.7,Amoxicillin,13 days,Unsuccessful
+46,32,Male,High,11.5,204730,Salmonella typhi,Klebsiella pneumoniae,9.7,3.9,Amoxicillin,13 days,Successful
+47,54,Male,Moderate,11,266999,Staphylococcus,-,8.3,4.9,Azithromycin,5 days,Unsuccessful
+48,54,Female,High,13.1,149319,Staphylococcus,Klebsiella pneumoniae,8.5,4.7,Azithromycin,5 days,Unsuccessful
+49,68,Male,Low,12.8,124105,Salmonella typhi,Klebsiella pneumoniae,8.4,4.8,Azithromycin,12 days,Unsuccessful
+50,60,Female,Moderate,13.9,165846,Salmonella typhi,Escherichia coli,9.4,5,Azithromycin,6 days,Successful
+51,41,Female,Low,14.6,132423,Salmonella typhi,Klebsiella pneumoniae,9.3,4.8,Ceftriaxone,6 days,Successful
+52,49,Male,Low,10.4,203504,Staphylococcus,Klebsiella pneumoniae,8.7,4.8,Amoxicillin,14 days,Unsuccessful
+53,25,Female,Low,10.7,135912,Escherichia coli,Escherichia coli,9.5,3.7,Amoxicillin,13 days,Successful
+54,64,Male,Low,11.8,218056,Escherichia coli,-,8.6,4.3,Azithromycin,14 days,Successful
+55,30,Male,High,11.6,271906,Staphylococcus,Escherichia coli,9.9,4.4,Amoxicillin,15 days,Unsuccessful
+56,59,Female,Low,12.7,133464,Escherichia coli,Escherichia coli,9.4,3.7,Amoxicillin,13 days,Successful
+57,40,Male,High,10.8,143215,Staphylococcus,Escherichia coli,9,3.8,Amoxicillin,7 days,Unsuccessful
+58,31,Female,Low,13.3,169281,Escherichia coli,Escherichia coli,9.9,4,Ceftriaxone,10 days,Unsuccessful
+59,58,Female,Low,12.8,226660,Escherichia coli,Klebsiella pneumoniae,9.1,3.6,Azithromycin,7 days,Successful
+60,40,Male,High,14,240563,Escherichia coli,Klebsiella pneumoniae,8,4.6,Ceftriaxone,11 days,Unsuccessful
+61,70,Female,High,14.2,141495,Salmonella typhi,Escherichia coli,9.1,4.4,Amoxicillin,9 days,Successful
+62,61,Female,Moderate,11.6,139761,Staphylococcus,Klebsiella pneumoniae,9.4,3.8,Azithromycin,13 days,Successful
+63,66,Female,Moderate,12.6,157676,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,Ceftriaxone,13 days,Successful
+64,22,Male,High,11.3,298257,Salmonella typhi,Escherichia coli,9.9,4,Amoxicillin,9 days,Unsuccessful
+65,39,Male,High,11.3,233052,Salmonella typhi,Escherichia coli,9,4,Amoxicillin,9 days,Successful
+66,49,Male,High,11.8,157731,Staphylococcus,Escherichia coli,9.2,4.9,Ceftriaxone,9 days,Unsuccessful
+67,49,Female,High,12,257617,Escherichia coli,Klebsiella pneumoniae,9.9,4.4,Azithromycin,9 days,Unsuccessful
+68,35,Female,Moderate,12.8,202773,Salmonella typhi,Klebsiella pneumoniae,8.7,3.8,Amoxicillin,7 days,Unsuccessful
+69,37,Male,High,14.7,247630,Staphylococcus,-,8.7,4,Amoxicillin,11 days,Unsuccessful
+70,34,Male,Low,11,299040,Staphylococcus,-,9.9,4,Ceftriaxone,12 days,Successful
+71,43,Female,Moderate,10.7,197970,Escherichia coli,Escherichia coli,8.6,4.7,Amoxicillin,12 days,Successful
+72,28,Female,High,14,251367,Staphylococcus,Klebsiella pneumoniae,8.8,3.8,Azithromycin,9 days,Successful
+73,60,Female,Low,10.6,173041,Staphylococcus,-,9.8,4.2,Azithromycin,6 days,Unsuccessful
+74,37,Female,High,13.3,296502,Escherichia coli,Escherichia coli,8.2,4.5,Ceftriaxone,10 days,Unsuccessful
+75,38,Female,Low,12.8,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,Ceftriaxone,6 days,Unsuccessful
+76,37,Male,Low,11.7,153602,Staphylococcus,Escherichia coli,8.3,4.6,Ceftriaxone,11 days,Unsuccessful
+77,34,Male,High,14.8,120255,Staphylococcus,Escherichia coli,9.9,3.9,Ceftriaxone,8 days,Successful
+78,53,Male,Low,12.1,158382,Salmonella typhi,-,8.5,3.7,Azithromycin,14 days,Successful
+79,62,Male,Low,10.5,192953,Salmonella typhi,Escherichia coli,8.1,4.2,Amoxicillin,12 days,Successful
+80,62,Female,Low,12.6,179031,Staphylococcus,-,8.1,4.3,Ceftriaxone,8 days,Successful
+81,42,Female,Moderate,11.8,241035,Escherichia coli,Klebsiella pneumoniae,8.2,4.8,Ceftriaxone,6 days,Unsuccessful
+82,40,Female,Moderate,14.5,123716,Escherichia coli,-,9.2,4,Ceftriaxone,7 days,Successful
+83,53,Male,Low,14.1,282754,Staphylococcus,-,8,5,Ceftriaxone,8 days,Successful
+84,38,Male,Moderate,12.7,222301,Staphylococcus,Klebsiella pneumoniae,9.4,3.7,Ceftriaxone,14 days,Successful
+85,53,Male,Moderate,13.9,206539,Salmonella typhi,-,9.7,4.5,Ceftriaxone,13 days,Successful
+86,59,Male,Moderate,13.5,247444,Escherichia coli,Klebsiella pneumoniae,9.4,3.5,Amoxicillin,12 days,Unsuccessful
+87,67,Male,Moderate,13.2,143442,Staphylococcus,Escherichia coli,9.6,4.7,Azithromycin,6 days,Unsuccessful
+88,42,Male,Low,14,285053,Staphylococcus,Escherichia coli,9.1,4.3,Amoxicillin,6 days,Unsuccessful
+89,47,Female,Moderate,10.5,256449,Salmonella typhi,-,9.9,4.2,Azithromycin,7 days,Unsuccessful
+90,45,Male,Moderate,10.1,221098,Salmonella typhi,-,9.9,3.8,Amoxicillin,7 days,Successful
+91,42,Male,Low,11.3,175743,Staphylococcus,-,8.9,4.5,Amoxicillin,9 days,Unsuccessful
+92,28,Male,Moderate,14.9,193536,Staphylococcus,-,8.2,3.6,Amoxicillin,8 days,Successful
+93,25,Female,Low,13.2,257244,Salmonella typhi,Klebsiella pneumoniae,9,4.6,Amoxicillin,13 days,Successful
+94,21,Female,High,14.2,180288,Salmonella typhi,-,9.1,3.5,Amoxicillin,7 days,Unsuccessful
+95,32,Female,High,13.1,125605,Escherichia coli,-,8.3,4.2,Amoxicillin,10 days,Successful
+96,21,Male,Low,10.5,194804,Salmonella typhi,Escherichia coli,8.7,4.3,Amoxicillin,9 days,Successful
+97,70,Male,High,13.2,240427,Salmonella typhi,Escherichia coli,9.6,4.6,Amoxicillin,8 days,Successful
+98,61,Male,High,10.2,261628,Salmonella typhi,-,8.1,4,Azithromycin,12 days,Successful
+99,63,Male,Low,13.1,255927,Salmonella typhi,Escherichia coli,9.5,4.5,Amoxicillin,15 days,Successful
+100,35,Male,Moderate,14.4,299799,Staphylococcus,Escherichia coli,9.7,4.8,Amoxicillin,7 days,Successful
+101,38,Female,Low,13.9,293212,Escherichia coli,Klebsiella pneumoniae,9.2,3.8,Azithromycin,12 days,Successful
+102,51,Female,Low,14.8,128204,Salmonella typhi,Escherichia coli,8.8,4.8,Azithromycin,13 days,Successful
+103,59,Female,Low,13.8,176029,Salmonella typhi,-,9.9,4.1,Azithromycin,8 days,Successful
+104,28,Female,Low,10.9,232128,Salmonella typhi,Escherichia coli,8.3,4.5,Amoxicillin,12 days,Unsuccessful
+105,53,Male,High,14.5,138711,Staphylococcus,-,9.4,4.7,Azithromycin,8 days,Successful
+106,60,Male,Moderate,11.2,247329,Salmonella typhi,-,9.8,4.8,Azithromycin,8 days,Unsuccessful
+107,42,Female,Moderate,10.9,223968,Staphylococcus,Klebsiella pneumoniae,9.9,4.7,Ceftriaxone,15 days,Successful
+108,20,Male,Low,14.4,212938,Escherichia coli,Escherichia coli,8.8,3.8,Amoxicillin,11 days,Unsuccessful
+109,29,Female,Moderate,10.2,281529,Staphylococcus,Escherichia coli,9.4,3.7,Amoxicillin,15 days,Successful
+110,68,Female,Low,12.3,212174,Staphylococcus,Escherichia coli,8.2,3.8,Azithromycin,15 days,Successful
+111,55,Female,High,14.4,241787,Escherichia coli,Escherichia coli,8.5,4.6,Ceftriaxone,14 days,Unsuccessful
+112,38,Male,Moderate,13.5,210954,Salmonella typhi,Escherichia coli,9.3,4.4,Azithromycin,5 days,Unsuccessful
+113,26,Female,Low,12.9,286100,Salmonella typhi,Klebsiella pneumoniae,9.2,4.5,Amoxicillin,9 days,Unsuccessful
+114,47,Female,High,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,Amoxicillin,6 days,Unsuccessful
+115,50,Male,Moderate,10.3,227431,Staphylococcus,-,9.9,4.1,Amoxicillin,13 days,Unsuccessful
+116,59,Female,High,13.9,275815,Escherichia coli,Escherichia coli,9.6,4.1,Ceftriaxone,9 days,Successful
+117,53,Male,High,14.6,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,Azithromycin,9 days,Unsuccessful
+118,32,Male,Low,10.5,256889,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,Amoxicillin,6 days,Successful
+119,29,Male,Low,12.3,169752,Staphylococcus,-,9.7,3.5,Amoxicillin,5 days,Unsuccessful
+120,20,Male,Low,13.8,283791,Staphylococcus,-,9.3,4.1,Azithromycin,13 days,Unsuccessful
+121,67,Female,High,10.2,266270,Escherichia coli,Klebsiella pneumoniae,8.4,4.9,Azithromycin,7 days,Successful
+122,33,Female,Low,11,141738,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,Ceftriaxone,5 days,Unsuccessful
+123,18,Female,Moderate,11.7,228923,Salmonella typhi,Escherichia coli,8.7,4.2,Azithromycin,13 days,Unsuccessful
+124,65,Male,High,11.4,153265,Salmonella typhi,Klebsiella pneumoniae,9.5,4.8,Amoxicillin,12 days,Successful
+125,60,Male,Moderate,10.2,147573,Escherichia coli,Escherichia coli,9.2,3.7,Ceftriaxone,13 days,Unsuccessful
+126,24,Female,High,13.8,233659,Salmonella typhi,Escherichia coli,9.6,4.3,Ceftriaxone,8 days,Successful
+127,25,Male,High,10.3,150715,Salmonella typhi,-,8.1,4.6,Amoxicillin,11 days,Successful
+128,31,Male,Moderate,11.6,203732,Escherichia coli,Klebsiella pneumoniae,8,3.9,Ceftriaxone,11 days,Successful
+129,58,Female,Moderate,12.1,155222,Escherichia coli,Escherichia coli,8.5,4.1,Azithromycin,10 days,Unsuccessful
+130,49,Female,Low,11.3,247396,Staphylococcus,-,8.8,4.6,Amoxicillin,15 days,Successful
+131,60,Male,Low,12,193271,Salmonella typhi,Klebsiella pneumoniae,8.5,3.9,Amoxicillin,14 days,Unsuccessful
+132,32,Female,High,12.8,217500,Salmonella typhi,Escherichia coli,8.8,4.8,Ceftriaxone,15 days,Unsuccessful
+133,47,Female,Moderate,11.3,172687,Staphylococcus,-,8.8,4.3,Amoxicillin,13 days,Successful
+134,34,Female,High,12.3,207345,Escherichia coli,-,8.7,3.5,Azithromycin,12 days,Unsuccessful
+135,65,Female,Low,11.3,142806,Salmonella typhi,Escherichia coli,8.2,4.2,Amoxicillin,7 days,Unsuccessful
+136,55,Male,Low,11.1,232215,Staphylococcus,Klebsiella pneumoniae,8,4.7,Azithromycin,8 days,Successful
+137,68,Female,Low,13.9,173171,Escherichia coli,Escherichia coli,8.7,4.1,Ceftriaxone,9 days,Successful
+138,53,Female,Moderate,14.2,241424,Salmonella typhi,Escherichia coli,9.2,4.8,Azithromycin,5 days,Successful
+139,41,Male,Low,11.1,275734,Salmonella typhi,Klebsiella pneumoniae,9.1,4.7,Amoxicillin,8 days,Successful
+140,41,Male,Low,14,219718,Staphylococcus,Klebsiella pneumoniae,8,4.1,Amoxicillin,14 days,Successful
+141,30,Female,High,11.9,292256,Staphylococcus,Klebsiella pneumoniae,9,3.8,Azithromycin,8 days,Unsuccessful
+142,22,Male,High,12,130911,Staphylococcus,Klebsiella pneumoniae,8.8,4.8,Amoxicillin,8 days,Successful
+143,48,Male,Low,10.3,168075,Escherichia coli,Klebsiella pneumoniae,8.7,4.5,Ceftriaxone,11 days,Unsuccessful
+144,58,Male,Moderate,13.6,250807,Escherichia coli,-,8.9,3.7,Ceftriaxone,14 days,Unsuccessful
+145,23,Male,High,10.6,131751,Staphylococcus,Escherichia coli,9.2,4,Azithromycin,11 days,Successful
+146,37,Male,Low,14.6,279103,Escherichia coli,Escherichia coli,9.5,4.3,Amoxicillin,11 days,Unsuccessful
+147,52,Female,Low,14,142783,Escherichia coli,Klebsiella pneumoniae,9.7,4,Ceftriaxone,8 days,Unsuccessful
+148,68,Female,High,10.8,275083,Salmonella typhi,Escherichia coli,9.6,4.7,Ceftriaxone,14 days,Successful
+149,45,Female,Moderate,10.9,148417,Salmonella typhi,-,10,4.1,Amoxicillin,9 days,Unsuccessful
+150,40,Male,Moderate,13.2,296947,Staphylococcus,Escherichia coli,9.7,4.7,Amoxicillin,10 days,Unsuccessful
+151,42,Female,Low,13.8,121427,Escherichia coli,Escherichia coli,9.8,4.2,Ceftriaxone,13 days,Unsuccessful
+152,29,Female,Low,11.7,257674,Staphylococcus,-,8.3,4.2,Amoxicillin,8 days,Successful
+153,22,Female,High,10.2,171452,Escherichia coli,Klebsiella pneumoniae,8.4,3.7,Ceftriaxone,10 days,Successful
+154,19,Male,High,12.8,167640,Salmonella typhi,Klebsiella pneumoniae,9.4,3.8,Azithromycin,13 days,Successful
+155,36,Male,High,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,4.8,Ceftriaxone,6 days,Unsuccessful
+156,47,Male,Low,13.4,219780,Salmonella typhi,Escherichia coli,9.1,4.4,Amoxicillin,9 days,Unsuccessful
+157,55,Male,Low,15,163088,Salmonella typhi,Escherichia coli,8.7,4.7,Azithromycin,10 days,Successful
+158,70,Male,Low,14,283006,Staphylococcus,Klebsiella pneumoniae,9.3,4.2,Azithromycin,8 days,Unsuccessful
+159,32,Male,High,14.6,285586,Salmonella typhi,Escherichia coli,9.6,4.7,Ceftriaxone,7 days,Unsuccessful
+160,20,Male,Moderate,12.8,251961,Staphylococcus,Escherichia coli,8.6,4.5,Azithromycin,11 days,Successful
+161,47,Female,High,11.6,191334,Salmonella typhi,Escherichia coli,8.9,4.9,Ceftriaxone,11 days,Successful
+162,46,Female,High,11.6,154095,Escherichia coli,Klebsiella pneumoniae,9,5,Ceftriaxone,12 days,Successful
+163,44,Female,Low,14.9,237458,Staphylococcus,-,9,4.9,Azithromycin,13 days,Unsuccessful
+164,34,Male,Moderate,12.1,201587,Staphylococcus,Escherichia coli,9.6,4.5,Ceftriaxone,14 days,Successful
+165,46,Female,Low,14.5,212879,Staphylococcus,-,8.8,4.9,Amoxicillin,6 days,Unsuccessful
+166,23,Female,Low,14,129476,Staphylococcus,Escherichia coli,9,5,Azithromycin,13 days,Successful
+167,35,Female,High,14,251719,Salmonella typhi,Escherichia coli,8.3,3.6,Ceftriaxone,12 days,Unsuccessful
+168,56,Male,Low,11.4,226983,Escherichia coli,-,8,3.9,Amoxicillin,9 days,Successful
+169,34,Male,Moderate,12.8,275995,Salmonella typhi,-,8.8,4.6,Azithromycin,14 days,Successful
+170,24,Female,Moderate,14.7,203401,Salmonella typhi,-,8,3.8,Ceftriaxone,14 days,Unsuccessful
+171,53,Male,High,14.6,212127,Salmonella typhi,Escherichia coli,9.8,4,Amoxicillin,13 days,Unsuccessful
+172,63,Male,Moderate,10.4,123473,Escherichia coli,-,8.8,4,Azithromycin,7 days,Successful
+173,59,Female,High,10,190527,Escherichia coli,Escherichia coli,9.5,4.1,Amoxicillin,8 days,Successful
+174,42,Female,Moderate,14.7,298403,Salmonella typhi,-,8.4,4.7,Amoxicillin,6 days,Successful
+175,66,Male,Low,12.2,127651,Staphylococcus,Escherichia coli,8.4,3.5,Azithromycin,10 days,Successful
+176,32,Male,High,10.5,289323,Staphylococcus,-,9.7,4.6,Azithromycin,15 days,Successful
+177,70,Male,Low,14.5,251881,Staphylococcus,Escherichia coli,8.6,4.3,Ceftriaxone,6 days,Successful
+178,52,Female,Moderate,13.2,165120,Staphylococcus,-,9.5,4.4,Azithromycin,12 days,Successful
+179,42,Male,High,11.4,225541,Staphylococcus,Escherichia coli,9.7,4.9,Amoxicillin,14 days,Successful
+180,18,Male,High,12.4,207917,Salmonella typhi,Escherichia coli,9.3,4,Azithromycin,13 days,Successful
+181,46,Male,Low,11.2,240018,Staphylococcus,Klebsiella pneumoniae,8.4,3.8,Azithromycin,12 days,Unsuccessful
+182,49,Female,High,13.8,204987,Staphylococcus,Klebsiella pneumoniae,8.3,4.4,Azithromycin,5 days,Successful
+183,66,Male,Low,14.4,217134,Salmonella typhi,Escherichia coli,9,3.6,Azithromycin,9 days,Successful
+184,19,Female,Low,12.7,219844,Escherichia coli,Klebsiella pneumoniae,10,4.7,Azithromycin,5 days,Successful
+185,29,Female,Moderate,10.2,269063,Escherichia coli,-,8.4,4.1,Ceftriaxone,5 days,Successful
+186,47,Male,Low,13.1,198078,Escherichia coli,-,9,4.6,Amoxicillin,10 days,Unsuccessful
+187,36,Male,Low,11.1,224202,Salmonella typhi,-,8.8,3.9,Azithromycin,15 days,Successful
+188,35,Female,Low,14.4,233912,Staphylococcus,-,8.4,3.6,Azithromycin,8 days,Successful
+189,24,Male,Moderate,11,138251,Salmonella typhi,-,9.9,4.6,Azithromycin,5 days,Successful
+190,26,Male,Moderate,13.7,159499,Escherichia coli,-,10,4.5,Ceftriaxone,5 days,Unsuccessful
+191,48,Male,Low,14.7,120593,Escherichia coli,Klebsiella pneumoniae,8.1,3.9,Amoxicillin,7 days,Unsuccessful
+192,67,Female,Moderate,12,268578,Staphylococcus,Klebsiella pneumoniae,10,4.3,Azithromycin,5 days,Successful
+193,58,Female,Moderate,10.3,126391,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,Amoxicillin,10 days,Successful
+194,36,Female,High,14.7,126949,Salmonella typhi,Escherichia coli,9.8,4.9,Azithromycin,15 days,Unsuccessful
+195,21,Male,High,14.5,182597,Escherichia coli,Klebsiella pneumoniae,8.4,4.5,Azithromycin,7 days,Unsuccessful
+196,41,Male,High,10.5,153282,Salmonella typhi,Escherichia coli,9.8,3.9,Amoxicillin,9 days,Successful
+197,22,Male,Moderate,12.2,170104,Staphylococcus,Escherichia coli,8.7,4.1,Amoxicillin,14 days,Successful
+198,24,Male,Moderate,13.5,172544,Staphylococcus,-,9.9,4.1,Amoxicillin,13 days,Unsuccessful
+199,35,Female,Low,12.4,229907,Salmonella typhi,Escherichia coli,9.9,4.4,Azithromycin,12 days,Successful
+200,51,Female,Moderate,13.6,289899,Escherichia coli,Klebsiella pneumoniae,9.5,4.6,Amoxicillin,6 days,Successful
+201,48,Male,Moderate,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,Azithromycin,13 days,Successful
+202,50,Female,High,11.5,178069,Salmonella typhi,Escherichia coli,8.4,4.7,Azithromycin,6 days,Successful
+203,32,Female,Low,11.1,171322,Escherichia coli,-,9.7,4.5,Ceftriaxone,7 days,Successful
+204,38,Male,High,11.6,238774,Salmonella typhi,Klebsiella pneumoniae,9.4,4.2,Amoxicillin,10 days,Unsuccessful
+205,57,Female,High,10.3,196319,Escherichia coli,Klebsiella pneumoniae,8.1,4.1,Azithromycin,6 days,Unsuccessful
+206,69,Male,High,14.3,234261,Staphylococcus,Klebsiella pneumoniae,9.7,4.1,Amoxicillin,7 days,Unsuccessful
+207,60,Female,Moderate,10.6,256250,Staphylococcus,Escherichia coli,8.1,4.9,Azithromycin,8 days,Unsuccessful
+208,52,Female,Low,13.9,146470,Staphylococcus,Escherichia coli,8.9,3.7,Azithromycin,6 days,Successful
+209,29,Male,Moderate,11,236887,Staphylococcus,-,8.6,4.7,Ceftriaxone,7 days,Successful
+210,57,Male,High,11.2,152117,Escherichia coli,Escherichia coli,9.3,4.2,Azithromycin,15 days,Successful
+211,57,Female,High,10.5,151932,Escherichia coli,-,10,3.7,Azithromycin,10 days,Unsuccessful
+212,68,Male,High,13.4,165111,Escherichia coli,-,9.9,3.8,Ceftriaxone,14 days,Successful
+213,51,Female,Low,13.7,175624,Escherichia coli,Escherichia coli,8.1,3.6,Ceftriaxone,9 days,Successful
+214,50,Male,Moderate,12.6,263443,Salmonella typhi,Escherichia coli,9.9,4.1,Amoxicillin,7 days,Successful
+215,54,Female,High,10.7,208888,Escherichia coli,-,9.7,4,Amoxicillin,10 days,Successful
+216,64,Female,Moderate,13.6,268625,Escherichia coli,-,9.6,3.6,Amoxicillin,8 days,Unsuccessful
+217,21,Female,High,10.4,223413,Salmonella typhi,Escherichia coli,9.2,4.7,Amoxicillin,13 days,Successful
+218,47,Female,High,10,244392,Staphylococcus,Escherichia coli,8.4,5,Ceftriaxone,12 days,Unsuccessful
+219,31,Male,Low,12.9,167056,Salmonella typhi,-,8.9,4.3,Amoxicillin,10 days,Unsuccessful
+220,37,Female,Moderate,13.4,220988,Staphylococcus,Klebsiella pneumoniae,9.7,4.8,Amoxicillin,14 days,Successful
+221,63,Male,Moderate,11.2,270096,Escherichia coli,Escherichia coli,8.7,4.5,Ceftriaxone,12 days,Successful
+222,49,Male,Moderate,14.6,139074,Escherichia coli,Escherichia coli,8.9,4.5,Amoxicillin,10 days,Successful
+223,33,Male,Low,10.3,212043,Escherichia coli,Escherichia coli,9.4,3.9,Ceftriaxone,8 days,Unsuccessful
+224,22,Male,Low,10.3,176742,Salmonella typhi,Klebsiella pneumoniae,8.8,4.8,Amoxicillin,15 days,Successful
+225,31,Female,Moderate,12,265666,Escherichia coli,Klebsiella pneumoniae,9,4.8,Amoxicillin,13 days,Successful
+226,41,Female,Moderate,14,197374,Escherichia coli,-,8.3,4.2,Amoxicillin,15 days,Successful
+227,65,Female,Low,11.5,264097,Escherichia coli,Escherichia coli,8.3,4.5,Amoxicillin,14 days,Successful
+228,27,Female,Low,12.3,184811,Staphylococcus,Klebsiella pneumoniae,9.8,4.5,Amoxicillin,13 days,Unsuccessful
+229,23,Male,Low,13.8,194376,Escherichia coli,Escherichia coli,9.4,4.7,Ceftriaxone,9 days,Successful
+230,62,Male,Low,12.6,157204,Staphylococcus,Klebsiella pneumoniae,9,4.1,Azithromycin,14 days,Unsuccessful
+231,31,Female,Low,11.8,259855,Escherichia coli,Klebsiella pneumoniae,9.1,3.9,Ceftriaxone,7 days,Successful
+232,40,Male,Low,11.9,191388,Escherichia coli,-,8.9,4.4,Amoxicillin,10 days,Successful
+233,28,Male,Moderate,13.7,247281,Staphylococcus,-,8.8,4.1,Azithromycin,13 days,Successful
+234,23,Female,Moderate,14,195962,Escherichia coli,Escherichia coli,8.5,4.8,Amoxicillin,6 days,Successful
+235,44,Female,Moderate,10,211914,Salmonella typhi,Klebsiella pneumoniae,9.8,4.2,Amoxicillin,8 days,Successful
+236,35,Male,Moderate,11.1,232301,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,Azithromycin,6 days,Unsuccessful
+237,63,Female,Low,14.5,242715,Escherichia coli,Escherichia coli,9.4,4.9,Amoxicillin,12 days,Unsuccessful
+238,69,Female,Moderate,11.7,200188,Salmonella typhi,-,9.5,4.5,Azithromycin,11 days,Successful
+239,50,Male,Low,12.6,171477,Staphylococcus,Klebsiella pneumoniae,9.9,4.5,Ceftriaxone,10 days,Successful
+240,54,Male,High,12.4,187155,Staphylococcus,Klebsiella pneumoniae,9,3.6,Ceftriaxone,8 days,Unsuccessful
+241,70,Female,High,13,237778,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,Amoxicillin,5 days,Successful
+242,38,Female,High,14.5,161744,Staphylococcus,Klebsiella pneumoniae,9.9,3.8,Azithromycin,15 days,Successful
+243,22,Male,High,14.9,269700,Salmonella typhi,-,8.5,4.1,Azithromycin,7 days,Successful
+244,32,Male,Moderate,11.8,271383,Salmonella typhi,-,8.7,4.1,Amoxicillin,6 days,Successful
+245,69,Female,High,12.6,289018,Escherichia coli,Escherichia coli,9.2,3.6,Amoxicillin,5 days,Successful
+246,58,Female,Moderate,14.5,193798,Staphylococcus,Klebsiella pneumoniae,8.6,3.7,Azithromycin,11 days,Unsuccessful
+247,54,Male,High,12.4,197608,Escherichia coli,Klebsiella pneumoniae,8.4,4,Ceftriaxone,11 days,Unsuccessful
+248,19,Male,Moderate,12.6,252629,Salmonella typhi,Escherichia coli,9.1,3.9,Ceftriaxone,9 days,Unsuccessful
+249,61,Male,High,10.9,221440,Staphylococcus,Escherichia coli,9.2,4.9,Amoxicillin,7 days,Unsuccessful
+250,69,Male,Low,14.9,271235,Staphylococcus,Escherichia coli,9.8,3.6,Azithromycin,12 days,Unsuccessful
+251,30,Female,Low,10.9,166253,Staphylococcus,Klebsiella pneumoniae,9,3.6,Amoxicillin,12 days,Unsuccessful
+252,59,Female,Low,12.3,164755,Salmonella typhi,Escherichia coli,8.2,4.8,Ceftriaxone,15 days,Unsuccessful
+253,58,Male,Moderate,13,218991,Staphylococcus,Klebsiella pneumoniae,8.1,4.2,Ceftriaxone,5 days,Unsuccessful
+254,24,Male,High,14.3,182136,Escherichia coli,Klebsiella pneumoniae,9.7,3.9,Amoxicillin,10 days,Unsuccessful
+255,23,Female,Moderate,11.1,195391,Escherichia coli,-,8.3,4.9,Ceftriaxone,5 days,Successful
+256,31,Female,Low,10.6,251934,Staphylococcus,Escherichia coli,9.8,4.1,Azithromycin,8 days,Unsuccessful
+257,44,Male,Low,11,269761,Escherichia coli,Klebsiella pneumoniae,8.3,4,Ceftriaxone,5 days,Successful
+258,43,Male,Low,10.4,162860,Staphylococcus,Escherichia coli,9.5,4,Ceftriaxone,8 days,Successful
+259,29,Male,High,12.7,184020,Salmonella typhi,Klebsiella pneumoniae,8.3,3.6,Amoxicillin,8 days,Successful
+260,41,Female,Low,14.5,267185,Staphylococcus,Klebsiella pneumoniae,8.8,3.9,Ceftriaxone,8 days,Successful
+261,32,Male,Low,10.5,130848,Salmonella typhi,-,9.5,4.5,Ceftriaxone,9 days,Unsuccessful
+262,24,Male,Low,11.1,290878,Staphylococcus,Escherichia coli,8.8,4.7,Amoxicillin,8 days,Unsuccessful
+263,64,Male,Low,12.6,212644,Salmonella typhi,Klebsiella pneumoniae,9.9,4.6,Azithromycin,12 days,Unsuccessful
+264,58,Male,Moderate,13.3,200716,Escherichia coli,Escherichia coli,9.7,4.3,Azithromycin,9 days,Successful
+265,22,Female,Moderate,10.1,172574,Staphylococcus,Klebsiella pneumoniae,8.4,4.6,Amoxicillin,9 days,Unsuccessful
+266,41,Female,Moderate,14.2,175143,Salmonella typhi,-,8.2,4.1,Azithromycin,7 days,Successful
+267,37,Female,High,13.6,272076,Staphylococcus,Klebsiella pneumoniae,8.8,3.5,Azithromycin,13 days,Successful
+268,36,Female,Low,13.1,195874,Staphylococcus,-,9,4,Ceftriaxone,13 days,Unsuccessful
+269,25,Female,High,12.2,293506,Staphylococcus,Klebsiella pneumoniae,8.9,4.1,Ceftriaxone,5 days,Successful
+270,25,Female,Low,10.2,232223,Escherichia coli,Escherichia coli,9.2,5,Ceftriaxone,13 days,Successful
+271,31,Male,Moderate,13.8,297910,Escherichia coli,Klebsiella pneumoniae,9.2,4.3,Azithromycin,8 days,Successful
+272,28,Female,Low,11.3,139608,Escherichia coli,-,8.7,3.9,Ceftriaxone,12 days,Unsuccessful
+273,57,Female,Low,14,206089,Escherichia coli,-,8.6,4.5,Azithromycin,9 days,Successful
+274,51,Female,Low,10.4,292860,Staphylococcus,Escherichia coli,9.4,3.7,Azithromycin,14 days,Successful
+275,31,Female,High,10.5,122572,Staphylococcus,-,9.9,3.8,Ceftriaxone,7 days,Successful
+276,40,Male,High,12.8,221970,Staphylococcus,Klebsiella pneumoniae,9.4,4.6,Azithromycin,13 days,Successful
+277,33,Female,High,13.6,267979,Salmonella typhi,Escherichia coli,8.7,3.9,Amoxicillin,14 days,Successful
+278,48,Female,Moderate,12.3,228108,Staphylococcus,-,8.9,5,Azithromycin,7 days,Unsuccessful
+279,43,Male,High,12,135752,Salmonella typhi,Klebsiella pneumoniae,9.1,4.9,Amoxicillin,9 days,Unsuccessful
+280,25,Female,Low,13.1,261383,Escherichia coli,-,10,4.5,Amoxicillin,11 days,Unsuccessful
+281,23,Female,Low,14,266451,Salmonella typhi,Escherichia coli,8.4,3.8,Amoxicillin,12 days,Successful
+282,27,Male,Low,12.3,240582,Salmonella typhi,Klebsiella pneumoniae,9.2,4.1,Azithromycin,8 days,Unsuccessful
+283,19,Male,High,11.4,211866,Salmonella typhi,Klebsiella pneumoniae,9.8,4.9,Azithromycin,11 days,Successful
+284,59,Female,High,13.3,177558,Staphylococcus,Escherichia coli,9.7,4.8,Ceftriaxone,13 days,Successful
+285,61,Female,High,13.3,228861,Escherichia coli,-,8.3,3.9,Ceftriaxone,11 days,Successful
+286,49,Male,Low,12.8,274106,Salmonella typhi,Klebsiella pneumoniae,9.4,4.6,Azithromycin,11 days,Unsuccessful
+287,32,Male,Low,13.7,159786,Salmonella typhi,Klebsiella pneumoniae,8.5,4.4,Amoxicillin,8 days,Successful
+288,51,Male,Low,11.4,179461,Salmonella typhi,Escherichia coli,9.1,4.5,Ceftriaxone,5 days,Successful
+289,63,Female,Low,11,265338,Escherichia coli,Klebsiella pneumoniae,8.8,4.4,Azithromycin,11 days,Successful
+290,31,Male,Moderate,11.8,149338,Salmonella typhi,-,9.4,3.8,Azithromycin,10 days,Successful
+291,49,Male,High,12.4,185115,Salmonella typhi,Klebsiella pneumoniae,8.7,4.6,Amoxicillin,9 days,Unsuccessful
+292,51,Female,Low,12.5,248124,Escherichia coli,Klebsiella pneumoniae,9,3.5,Amoxicillin,5 days,Unsuccessful
+293,43,Male,High,14.2,148321,Staphylococcus,Escherichia coli,9,4.8,Azithromycin,8 days,Successful
+294,22,Male,Low,14.4,233424,Escherichia coli,-,9.3,3.7,Ceftriaxone,14 days,Successful
+295,18,Male,Moderate,10.8,224095,Salmonella typhi,Escherichia coli,10,4,Azithromycin,8 days,Successful
+296,63,Male,High,10.4,133666,Staphylococcus,Klebsiella pneumoniae,8.7,4.2,Amoxicillin,6 days,Successful
+297,18,Female,High,10.1,145800,Salmonella typhi,Klebsiella pneumoniae,9.8,4.3,Amoxicillin,9 days,Unsuccessful
+298,34,Female,Moderate,11,149275,Escherichia coli,-,8.6,3.5,Azithromycin,13 days,Successful
+299,33,Female,High,12.5,207422,Salmonella typhi,Klebsiella pneumoniae,8.7,4.4,Azithromycin,5 days,Successful
+300,27,Female,Moderate,12.8,177049,Staphylococcus,Klebsiella pneumoniae,9.7,3.6,Azithromycin,9 days,Successful
+301,60,Female,High,13.8,182928,Salmonella typhi,-,8.7,4.1,Amoxicillin,13 days,Unsuccessful
+302,32,Male,Low,12.3,203540,Escherichia coli,Escherichia coli,8.4,4.8,Azithromycin,12 days,Unsuccessful
+303,24,Male,Low,13.6,209748,Salmonella typhi,Escherichia coli,9.5,4.7,Ceftriaxone,11 days,Successful
+304,32,Female,High,13.9,241071,Escherichia coli,-,8.2,4.9,Azithromycin,15 days,Successful
+305,46,Female,High,11.3,219163,Salmonella typhi,-,9,3.7,Azithromycin,9 days,Unsuccessful
+306,27,Female,Moderate,13.6,124060,Staphylococcus,-,9.7,5,Amoxicillin,5 days,Successful
+307,33,Male,Moderate,12.3,230146,Salmonella typhi,Escherichia coli,9.4,4.9,Ceftriaxone,15 days,Successful
+308,60,Male,High,11.4,258260,Escherichia coli,Klebsiella pneumoniae,8.8,4,Ceftriaxone,6 days,Successful
+309,51,Female,Moderate,14,174907,Staphylococcus,-,9,4,Azithromycin,15 days,Unsuccessful
+310,39,Male,Moderate,13.8,153174,Escherichia coli,-,9.4,4.5,Amoxicillin,12 days,Unsuccessful
+311,55,Female,High,14.7,135664,Staphylococcus,Klebsiella pneumoniae,10,5,Amoxicillin,12 days,Unsuccessful
+312,34,Female,High,11.7,125929,Escherichia coli,Klebsiella pneumoniae,8.7,3.5,Ceftriaxone,14 days,Successful
+313,59,Male,High,12.2,262214,Salmonella typhi,Klebsiella pneumoniae,9.2,3.5,Amoxicillin,9 days,Successful
+314,51,Male,Moderate,14.7,220513,Staphylococcus,Escherichia coli,8.2,3.9,Amoxicillin,11 days,Successful
+315,42,Female,High,14.7,230812,Escherichia coli,Escherichia coli,9.8,4.5,Amoxicillin,5 days,Successful
+316,37,Male,Low,13,182340,Staphylococcus,Klebsiella pneumoniae,8.9,3.8,Ceftriaxone,7 days,Unsuccessful
+317,42,Male,Moderate,11.9,136833,Staphylococcus,-,9.3,4.6,Azithromycin,8 days,Successful
+318,43,Male,High,12.3,227911,Escherichia coli,Escherichia coli,9.2,4.5,Azithromycin,8 days,Unsuccessful
+319,20,Male,Low,11.8,245572,Escherichia coli,-,9.4,4.9,Amoxicillin,12 days,Successful
+320,53,Female,Moderate,13.8,205110,Salmonella typhi,-,8.7,4.4,Ceftriaxone,6 days,Unsuccessful
+321,31,Male,Low,11.6,275656,Salmonella typhi,Escherichia coli,8.3,5,Azithromycin,11 days,Successful
+322,65,Male,Low,11.8,203679,Salmonella typhi,-,8.2,4.1,Ceftriaxone,9 days,Unsuccessful
+323,24,Male,Low,10.9,239060,Staphylococcus,Klebsiella pneumoniae,9,4,Ceftriaxone,9 days,Successful
+324,67,Male,High,13.6,188685,Escherichia coli,Escherichia coli,8.3,4.7,Ceftriaxone,11 days,Unsuccessful
+325,63,Male,Low,14.8,232135,Staphylococcus,Klebsiella pneumoniae,9.8,3.8,Ceftriaxone,5 days,Successful
+326,24,Female,Moderate,11.9,255792,Salmonella typhi,Escherichia coli,8.9,4.1,Amoxicillin,12 days,Successful
+327,26,Male,Low,10.6,232881,Salmonella typhi,Escherichia coli,8.2,4.7,Amoxicillin,9 days,Successful
+328,19,Female,Low,13.5,222111,Staphylococcus,-,8.7,4.9,Ceftriaxone,8 days,Successful
+329,67,Female,High,10.4,273449,Salmonella typhi,-,8.9,3.5,Amoxicillin,7 days,Unsuccessful
+330,57,Male,High,12.5,128331,Salmonella typhi,-,8.9,4.4,Amoxicillin,12 days,Unsuccessful
+331,35,Male,Low,14.1,291619,Escherichia coli,Escherichia coli,9.8,4.4,Ceftriaxone,5 days,Successful
+332,51,Female,High,13.8,139426,Salmonella typhi,-,8.7,3.9,Amoxicillin,6 days,Successful
+333,39,Female,Moderate,15,188616,Salmonella typhi,-,9.5,4.7,Azithromycin,13 days,Successful
+334,57,Female,Moderate,11.7,196658,Staphylococcus,-,8.4,4.5,Ceftriaxone,8 days,Successful
+335,35,Male,High,13.4,293494,Escherichia coli,Klebsiella pneumoniae,8.8,3.9,Azithromycin,6 days,Successful
+336,62,Female,High,14.2,222478,Escherichia coli,Klebsiella pneumoniae,9.4,3.7,Ceftriaxone,7 days,Unsuccessful
+337,42,Male,Moderate,11.8,170275,Escherichia coli,Escherichia coli,8.4,4.5,Ceftriaxone,15 days,Successful
+338,32,Female,Low,13.8,246111,Staphylococcus,Escherichia coli,9.3,4.6,Amoxicillin,14 days,Unsuccessful
+339,53,Female,Low,13.7,157167,Salmonella typhi,-,9.9,3.8,Ceftriaxone,10 days,Unsuccessful
+340,36,Male,Low,13.6,237925,Escherichia coli,Escherichia coli,9.6,4.7,Azithromycin,5 days,Successful
+341,27,Male,Moderate,10.8,283337,Escherichia coli,Klebsiella pneumoniae,8.8,3.9,Amoxicillin,11 days,Successful
+342,27,Female,Moderate,13.3,189420,Escherichia coli,-,8.3,4.5,Amoxicillin,7 days,Unsuccessful
+343,57,Male,High,11,203016,Salmonella typhi,-,9.3,4.4,Amoxicillin,10 days,Unsuccessful
+344,37,Female,Low,12.5,225673,Salmonella typhi,Klebsiella pneumoniae,10,4.8,Azithromycin,14 days,Unsuccessful
+345,41,Female,Low,14.9,282074,Staphylococcus,Klebsiella pneumoniae,9.1,4.9,Azithromycin,11 days,Unsuccessful
+346,23,Female,High,12.4,177973,Staphylococcus,Escherichia coli,8.5,3.9,Amoxicillin,15 days,Successful
+347,18,Female,High,10.7,231875,Staphylococcus,Escherichia coli,8.8,4.9,Amoxicillin,7 days,Unsuccessful
+348,55,Male,High,11.2,131516,Staphylococcus,Escherichia coli,8.8,4.2,Amoxicillin,13 days,Unsuccessful
+349,58,Female,Moderate,13.3,266849,Staphylococcus,Klebsiella pneumoniae,8.4,4.7,Amoxicillin,9 days,Successful
+350,27,Female,Low,13.1,172393,Salmonella typhi,Klebsiella pneumoniae,8.9,3.6,Azithromycin,12 days,Unsuccessful
+351,42,Male,Moderate,12.9,256066,Salmonella typhi,-,9.2,4.1,Ceftriaxone,8 days,Unsuccessful
+352,41,Male,High,13.9,152225,Salmonella typhi,Klebsiella pneumoniae,9.1,4,Ceftriaxone,8 days,Unsuccessful
+353,44,Male,Moderate,12.5,194850,Salmonella typhi,-,10,4.5,Azithromycin,9 days,Successful
+354,43,Male,High,11.8,204601,Escherichia coli,-,8,3.7,Amoxicillin,8 days,Successful
+355,49,Male,High,10.1,125026,Escherichia coli,-,8.9,4.5,Azithromycin,10 days,Unsuccessful
+356,29,Female,Moderate,12.6,277098,Staphylococcus,Escherichia coli,8.5,4.8,Azithromycin,6 days,Unsuccessful
+357,39,Male,Moderate,10.4,152731,Staphylococcus,Klebsiella pneumoniae,8.1,4.7,Ceftriaxone,7 days,Unsuccessful
+358,55,Female,High,13.9,121759,Salmonella typhi,Klebsiella pneumoniae,8,4.2,Azithromycin,9 days,Unsuccessful
+359,29,Female,Low,12.6,250358,Escherichia coli,Klebsiella pneumoniae,9,4.6,Ceftriaxone,7 days,Successful
+360,25,Male,Low,13.1,211847,Staphylococcus,-,9.1,4,Ceftriaxone,15 days,Successful
+361,47,Female,Moderate,12.7,277660,Salmonella typhi,-,9.3,3.8,Amoxicillin,13 days,Successful
+362,65,Female,High,10.3,220353,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,Amoxicillin,8 days,Successful
+363,41,Female,High,10.3,226907,Staphylococcus,-,8,3.7,Ceftriaxone,8 days,Unsuccessful
+364,55,Male,High,12.3,260544,Salmonella typhi,Klebsiella pneumoniae,9,3.5,Ceftriaxone,6 days,Unsuccessful
+365,52,Male,High,14.1,225376,Escherichia coli,-,8.7,4.9,Amoxicillin,13 days,Unsuccessful
+366,70,Female,Low,10.6,246631,Staphylococcus,-,9.1,4.5,Amoxicillin,11 days,Unsuccessful
+367,31,Male,Low,10.1,222307,Escherichia coli,Escherichia coli,8.8,4.1,Ceftriaxone,6 days,Unsuccessful
+368,25,Male,Low,11.9,136347,Salmonella typhi,Klebsiella pneumoniae,9.3,4.9,Amoxicillin,14 days,Successful
+369,45,Male,Low,10.6,270652,Staphylococcus,Escherichia coli,8.7,4.1,Ceftriaxone,6 days,Unsuccessful
+370,54,Female,Moderate,10.1,182700,Salmonella typhi,Escherichia coli,9.7,4.3,Amoxicillin,6 days,Successful
+371,69,Male,High,11,134200,Salmonella typhi,Klebsiella pneumoniae,9.5,4.5,Azithromycin,10 days,Unsuccessful
+372,50,Female,Moderate,14.3,198282,Staphylococcus,Escherichia coli,8.3,4.2,Ceftriaxone,15 days,Unsuccessful
+373,19,Female,High,12.1,254478,Staphylococcus,Escherichia coli,8.2,3.8,Azithromycin,12 days,Successful
+374,27,Male,Low,14.5,202101,Escherichia coli,Klebsiella pneumoniae,9.6,4.1,Ceftriaxone,6 days,Unsuccessful
+375,67,Female,Moderate,11.7,247264,Salmonella typhi,Klebsiella pneumoniae,8.9,4.6,Ceftriaxone,8 days,Unsuccessful
+376,39,Male,Low,13.7,242459,Escherichia coli,Escherichia coli,9,4,Ceftriaxone,12 days,Unsuccessful
+377,59,Female,High,13.7,218477,Salmonella typhi,Escherichia coli,9.1,4,Amoxicillin,11 days,Successful
+378,62,Female,Low,11,153088,Salmonella typhi,Escherichia coli,9.8,4.6,Amoxicillin,5 days,Unsuccessful
+379,47,Female,High,12,155402,Salmonella typhi,Escherichia coli,8.9,4.7,Amoxicillin,5 days,Unsuccessful
+380,63,Female,Low,11.5,174242,Staphylococcus,-,9.3,3.8,Azithromycin,7 days,Successful
+381,29,Female,Moderate,13.8,178039,Staphylococcus,Escherichia coli,9.5,4.6,Amoxicillin,9 days,Unsuccessful
+382,45,Male,Moderate,10.3,262761,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,Amoxicillin,9 days,Unsuccessful
+383,33,Female,Moderate,11.6,269082,Staphylococcus,Escherichia coli,9.4,3.9,Azithromycin,9 days,Unsuccessful
+384,57,Male,Moderate,14.7,261054,Staphylococcus,Escherichia coli,9,3.9,Azithromycin,11 days,Unsuccessful
+385,63,Male,Low,14,229818,Salmonella typhi,Klebsiella pneumoniae,8.2,4.2,Ceftriaxone,8 days,Successful
+386,42,Male,High,11.5,120681,Escherichia coli,-,8.8,4.3,Ceftriaxone,12 days,Unsuccessful
+387,58,Male,High,11.8,154557,Staphylococcus,-,8.4,4.6,Amoxicillin,5 days,Unsuccessful
+388,35,Male,High,11.3,228269,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,Azithromycin,12 days,Successful
+389,64,Male,Low,14.7,252565,Escherichia coli,Escherichia coli,8.2,3.8,Azithromycin,9 days,Successful
+390,22,Female,High,14.7,277963,Escherichia coli,Escherichia coli,9.9,4.3,Azithromycin,11 days,Unsuccessful
+391,67,Male,Low,10.6,276620,Escherichia coli,Klebsiella pneumoniae,10,3.7,Amoxicillin,12 days,Successful
+392,36,Female,Moderate,12,141211,Escherichia coli,-,8.4,4.5,Ceftriaxone,6 days,Successful
+393,36,Female,Low,10.7,282394,Escherichia coli,Klebsiella pneumoniae,9.5,4.7,Amoxicillin,5 days,Unsuccessful
+394,58,Female,High,11.5,165463,Escherichia coli,-,9.9,4.7,Ceftriaxone,14 days,Unsuccessful
+395,21,Female,Moderate,11.4,214135,Escherichia coli,-,8.5,4.1,Amoxicillin,7 days,Unsuccessful
+396,51,Female,Moderate,12.1,163976,Salmonella typhi,-,9.2,3.8,Amoxicillin,12 days,Successful
+397,26,Female,Moderate,11.4,222508,Escherichia coli,-,9.6,3.5,Azithromycin,15 days,Successful
+398,64,Female,Low,13,274927,Staphylococcus,-,8.6,4.1,Amoxicillin,13 days,Unsuccessful
+399,25,Male,High,14.7,196015,Escherichia coli,-,9.9,3.8,Ceftriaxone,13 days,Unsuccessful
+400,55,Male,Moderate,12.2,152381,Staphylococcus,Escherichia coli,9.2,4,Ceftriaxone,10 days,Unsuccessful
+401,53,Male,Moderate,10.9,222298,Staphylococcus,Klebsiella pneumoniae,8.6,4.8,Azithromycin,13 days,Unsuccessful
+402,62,Male,Low,14.1,283827,Escherichia coli,Escherichia coli,8.4,4.4,Ceftriaxone,9 days,Unsuccessful
+403,61,Female,Moderate,10.9,185690,Staphylococcus,-,8.6,4,Amoxicillin,5 days,Successful
+404,68,Female,Low,11.3,280694,Staphylococcus,Escherichia coli,8.5,3.9,Azithromycin,14 days,Successful
+405,21,Male,Moderate,10.6,226577,Staphylococcus,-,8.8,3.9,Amoxicillin,10 days,Unsuccessful
+406,50,Male,Moderate,10.6,293648,Staphylococcus,Klebsiella pneumoniae,9.1,5,Amoxicillin,13 days,Successful
+407,70,Male,Moderate,11,290206,Escherichia coli,-,8.4,4.5,Amoxicillin,9 days,Unsuccessful
+408,43,Male,Low,11.9,293139,Staphylococcus,Escherichia coli,8.3,3.8,Ceftriaxone,7 days,Successful
+409,60,Female,Low,13.9,263736,Salmonella typhi,Klebsiella pneumoniae,8.4,3.6,Amoxicillin,9 days,Successful
+410,34,Male,Moderate,12.5,215988,Escherichia coli,Escherichia coli,8.7,3.9,Ceftriaxone,11 days,Unsuccessful
+411,51,Female,Low,10.8,258485,Salmonella typhi,Escherichia coli,8,4.6,Ceftriaxone,11 days,Unsuccessful
+412,46,Male,Moderate,13.8,135292,Escherichia coli,-,9,4.8,Azithromycin,9 days,Unsuccessful
+413,68,Female,Low,13,168405,Escherichia coli,Escherichia coli,8.9,4.4,Azithromycin,10 days,Successful
+414,66,Female,Low,11.2,250524,Escherichia coli,-,9,3.9,Amoxicillin,8 days,Successful
+415,41,Male,High,13.9,178364,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,Amoxicillin,15 days,Unsuccessful
+416,19,Female,Low,12.1,128224,Staphylococcus,Escherichia coli,9,4.9,Amoxicillin,15 days,Successful
+417,33,Male,Low,13.8,264150,Salmonella typhi,Escherichia coli,8.9,4.2,Amoxicillin,8 days,Unsuccessful
+418,61,Male,High,14,251573,Salmonella typhi,Escherichia coli,9.5,3.7,Ceftriaxone,13 days,Unsuccessful
+419,32,Male,Low,12,166094,Salmonella typhi,Escherichia coli,9.5,4.1,Amoxicillin,7 days,Unsuccessful
+420,24,Male,Moderate,13.6,145376,Escherichia coli,-,8.3,4.5,Amoxicillin,9 days,Successful
+421,35,Female,Low,13.6,224323,Salmonella typhi,Klebsiella pneumoniae,9.4,4.7,Amoxicillin,5 days,Successful
+422,65,Female,Moderate,12.8,200217,Salmonella typhi,-,9,5,Azithromycin,12 days,Unsuccessful
+423,33,Male,Low,10.9,297825,Staphylococcus,Klebsiella pneumoniae,8.4,4.9,Ceftriaxone,6 days,Unsuccessful
+424,21,Male,Low,13.7,234102,Escherichia coli,Escherichia coli,8.9,3.7,Amoxicillin,5 days,Unsuccessful
+425,36,Male,High,12,186476,Salmonella typhi,-,8.6,4,Azithromycin,10 days,Unsuccessful
+426,50,Female,High,10.9,226451,Escherichia coli,Klebsiella pneumoniae,8.7,4.6,Azithromycin,14 days,Unsuccessful
+427,21,Male,Low,10.4,174021,Staphylococcus,-,8.6,4.1,Ceftriaxone,9 days,Unsuccessful
+428,49,Male,High,14.7,285788,Salmonella typhi,-,8.2,4.1,Azithromycin,15 days,Successful
+429,47,Male,Low,11.7,274681,Salmonella typhi,-,8.6,3.8,Azithromycin,14 days,Successful
+430,18,Female,Moderate,13.5,223949,Staphylococcus,-,9.4,4.4,Azithromycin,12 days,Unsuccessful
+431,30,Male,Low,12.9,166858,Escherichia coli,-,9.1,4.7,Amoxicillin,10 days,Unsuccessful
+432,18,Female,Low,10.9,188457,Salmonella typhi,Klebsiella pneumoniae,8.8,3.7,Azithromycin,13 days,Successful
+433,46,Male,High,11.3,233748,Staphylococcus,Escherichia coli,9.6,4.3,Azithromycin,15 days,Unsuccessful
+434,58,Female,High,11,139726,Staphylococcus,Klebsiella pneumoniae,8.2,4.5,Ceftriaxone,6 days,Unsuccessful
+435,46,Female,Low,11.7,292432,Salmonella typhi,Escherichia coli,8.4,4.9,Ceftriaxone,14 days,Unsuccessful
+436,67,Male,Low,13.9,242921,Salmonella typhi,Escherichia coli,9.4,3.8,Amoxicillin,5 days,Unsuccessful
+437,55,Female,Low,11.6,241507,Escherichia coli,Klebsiella pneumoniae,8.9,4.6,Azithromycin,12 days,Unsuccessful
+438,32,Male,Low,14.2,160244,Escherichia coli,Escherichia coli,8.9,3.7,Azithromycin,14 days,Unsuccessful
+439,46,Female,Moderate,14.8,277780,Escherichia coli,-,8.4,4.6,Amoxicillin,14 days,Unsuccessful
+440,32,Male,High,10.4,235876,Staphylococcus,Klebsiella pneumoniae,8.6,4.1,Azithromycin,14 days,Successful
+441,40,Female,Low,13.8,171420,Staphylococcus,-,9.5,4.3,Ceftriaxone,8 days,Successful
+442,32,Male,High,13.4,224017,Escherichia coli,Escherichia coli,9.6,4,Amoxicillin,9 days,Unsuccessful
+443,38,Male,Moderate,10.2,122498,Staphylococcus,-,9.1,4.6,Ceftriaxone,12 days,Unsuccessful
+444,68,Male,Low,10.5,142428,Staphylococcus,Escherichia coli,8.6,4.2,Amoxicillin,8 days,Unsuccessful
+445,49,Female,Moderate,12.6,227175,Escherichia coli,Escherichia coli,8.1,4,Ceftriaxone,9 days,Unsuccessful
+446,40,Female,Low,11.1,177798,Staphylococcus,Klebsiella pneumoniae,9.4,4.7,Amoxicillin,7 days,Unsuccessful
+447,35,Male,Moderate,13.5,131020,Salmonella typhi,Escherichia coli,8.4,3.6,Azithromycin,5 days,Successful
+448,23,Female,High,10.8,297073,Salmonella typhi,Klebsiella pneumoniae,8.1,4.3,Amoxicillin,7 days,Successful
+449,65,Male,Moderate,11.5,237296,Escherichia coli,Klebsiella pneumoniae,9.9,4.8,Amoxicillin,13 days,Successful
+450,66,Male,Low,10.3,171858,Salmonella typhi,Klebsiella pneumoniae,9.6,4.9,Ceftriaxone,5 days,Successful
+451,21,Male,Low,14.5,145663,Escherichia coli,Klebsiella pneumoniae,9.5,4.4,Amoxicillin,12 days,Successful
+452,23,Male,Moderate,14.6,192384,Staphylococcus,Escherichia coli,9.2,4.5,Azithromycin,5 days,Unsuccessful
+453,42,Male,High,14.4,134382,Escherichia coli,-,8.7,3.7,Ceftriaxone,9 days,Successful
+454,42,Male,High,12.9,174928,Salmonella typhi,-,9.4,4.7,Ceftriaxone,12 days,Successful
+455,23,Female,High,13.2,152380,Escherichia coli,-,9.9,4.6,Ceftriaxone,15 days,Unsuccessful
+456,48,Female,Moderate,10.5,207266,Salmonella typhi,Klebsiella pneumoniae,8.7,3.9,Ceftriaxone,15 days,Successful
+457,43,Female,Low,14.2,166308,Salmonella typhi,-,8.5,3.6,Azithromycin,8 days,Successful
+458,36,Male,High,14.9,270984,Escherichia coli,-,9.5,3.7,Amoxicillin,15 days,Unsuccessful
+459,44,Female,High,11,178327,Staphylococcus,Klebsiella pneumoniae,8.1,3.6,Ceftriaxone,6 days,Successful
+460,64,Female,Moderate,12.1,188483,Escherichia coli,-,9.7,4.2,Ceftriaxone,13 days,Successful
+461,18,Male,Low,11.4,258530,Staphylococcus,Escherichia coli,8.9,4.3,Azithromycin,7 days,Successful
+462,18,Male,Moderate,13.9,136774,Escherichia coli,-,9.8,5,Amoxicillin,8 days,Successful
+463,31,Female,Moderate,14.9,202641,Escherichia coli,Escherichia coli,9.6,3.7,Ceftriaxone,8 days,Unsuccessful
+464,20,Male,Moderate,10.5,160320,Escherichia coli,Klebsiella pneumoniae,8.7,4.7,Azithromycin,10 days,Successful
+465,39,Female,High,14.7,245738,Escherichia coli,Klebsiella pneumoniae,9.9,4,Azithromycin,14 days,Unsuccessful
+466,55,Male,Low,10.8,175100,Escherichia coli,Escherichia coli,9,4.7,Azithromycin,15 days,Successful
+467,24,Female,Moderate,13.4,270002,Salmonella typhi,Escherichia coli,8.7,4.9,Azithromycin,12 days,Successful
+468,54,Female,High,14.7,221510,Escherichia coli,Escherichia coli,8.5,4.9,Azithromycin,9 days,Successful
+469,59,Male,Low,11,279431,Staphylococcus,-,9.7,4.7,Amoxicillin,7 days,Successful
+470,22,Female,Moderate,12.4,140498,Escherichia coli,-,8.7,5,Azithromycin,14 days,Successful
+471,36,Male,Low,10.2,174250,Staphylococcus,Escherichia coli,8.8,4.7,Ceftriaxone,6 days,Successful
+472,68,Male,High,12.2,198767,Salmonella typhi,Klebsiella pneumoniae,8.1,4.1,Ceftriaxone,14 days,Unsuccessful
+473,56,Female,High,14.8,198377,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,Amoxicillin,10 days,Unsuccessful
+474,30,Male,Moderate,10.5,163435,Staphylococcus,-,9.2,4.6,Amoxicillin,5 days,Successful
+475,52,Male,High,12.6,179472,Staphylococcus,Klebsiella pneumoniae,9,4.7,Azithromycin,12 days,Unsuccessful
+476,53,Male,Low,14.1,125629,Salmonella typhi,Escherichia coli,8.6,4.9,Amoxicillin,6 days,Unsuccessful
+477,27,Male,Moderate,10.2,121845,Salmonella typhi,-,8.1,4.7,Azithromycin,14 days,Unsuccessful
+478,33,Male,High,12.4,227708,Escherichia coli,-,9.7,4.8,Azithromycin,13 days,Unsuccessful
+479,29,Female,High,14.1,286194,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,Ceftriaxone,7 days,Successful
+480,53,Male,High,13.8,276211,Salmonella typhi,-,9.2,4.6,Amoxicillin,9 days,Successful
+481,53,Female,High,13.7,238248,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,Ceftriaxone,7 days,Unsuccessful
+482,30,Female,Low,12.2,150640,Staphylococcus,-,8.9,3.8,Azithromycin,12 days,Successful
+483,20,Male,Moderate,14.9,176456,Salmonella typhi,Escherichia coli,8.4,4.8,Ceftriaxone,8 days,Unsuccessful
+484,58,Male,Low,10.2,191834,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,Ceftriaxone,14 days,Unsuccessful
+485,45,Female,Low,13.5,223823,Staphylococcus,Klebsiella pneumoniae,9.1,4.7,Azithromycin,11 days,Successful
+486,47,Male,Moderate,10.5,296049,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,Azithromycin,7 days,Unsuccessful
+487,51,Male,Low,11.5,299719,Salmonella typhi,-,9.2,4.8,Amoxicillin,11 days,Unsuccessful
+488,55,Female,Moderate,13.8,171116,Salmonella typhi,-,8.6,3.8,Azithromycin,10 days,Unsuccessful
+489,50,Male,Moderate,12,262919,Staphylococcus,-,9,3.9,Azithromycin,14 days,Successful
+490,33,Female,High,11,183052,Escherichia coli,Escherichia coli,8.6,4.8,Azithromycin,5 days,Unsuccessful
+491,35,Female,Low,12.1,290764,Staphylococcus,Klebsiella pneumoniae,9.7,3.6,Azithromycin,13 days,Successful
+492,35,Male,Low,12.7,132392,Salmonella typhi,Escherichia coli,8.6,4.9,Amoxicillin,13 days,Unsuccessful
+493,32,Female,Moderate,13.6,177667,Salmonella typhi,Klebsiella pneumoniae,8.3,3.5,Azithromycin,11 days,Unsuccessful
+494,28,Female,Moderate,10.4,181154,Staphylococcus,Klebsiella pneumoniae,9.7,4.5,Amoxicillin,6 days,Unsuccessful
+495,56,Female,Moderate,10.2,244228,Staphylococcus,Escherichia coli,9.5,4.6,Azithromycin,7 days,Unsuccessful
+496,31,Female,Low,14.9,239852,Staphylococcus,-,8.8,4.2,Amoxicillin,15 days,Successful
+497,27,Female,Low,14.2,259369,Staphylococcus,Klebsiella pneumoniae,9.2,4.4,Azithromycin,8 days,Successful
+498,51,Female,High,13,137143,Salmonella typhi,-,9.6,4.4,Ceftriaxone,8 days,Successful
+499,19,Female,Moderate,10.7,281796,Staphylococcus,Escherichia coli,8.5,4.9,Azithromycin,14 days,Successful
+500,68,Female,High,13.9,262155,Salmonella typhi,Escherichia coli,9,4.2,Azithromycin,8 days,Successful
