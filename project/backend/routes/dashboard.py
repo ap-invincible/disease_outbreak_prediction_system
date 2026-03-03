@@ -17,6 +17,8 @@ def get_dashboard_data(current_user):
     for r in reports:
         if r.predicted_disease and r.predicted_disease.lower() == 'healthy':
             continue
+        if r.outbreak_risk and r.outbreak_risk.lower() == 'none':
+            continue
         formatted_reports.append({
             'id': r.id,
             'timestamp': r.timestamp.isoformat(),
